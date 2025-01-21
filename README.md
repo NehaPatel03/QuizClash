@@ -1,6 +1,6 @@
-# QuizBattle  
+# QuizClash 
 
-**QuizBattle** is a real-time, multiplayer quiz platform where users can compete against each other by entering the same room. Using **Socket.IO**, the platform enables live interaction, synchronizing quizzes, tracking points, and displaying a leaderboard. At the end of each quiz, the winner is announced based on the leaderboard standings.
+**QuizClash** is a real-time, multiplayer quiz platform where users can compete against each other by entering the same room. Using **Socket.IO**, the platform enables live interaction, synchronizing quizzes, tracking points, and displaying a leaderboard. At the end of each quiz, the winner is announced based on the leaderboard standings.
 
 ## Features  
 
